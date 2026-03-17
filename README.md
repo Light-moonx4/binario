@@ -1,0 +1,2 @@
+# binario
+kill head
